@@ -1,0 +1,31 @@
+======================================================================================
+The business name is: Music-Center
+--------------------------------
+
+Amount of instruments:
+~~~~~~~~~~~~~~~~~~~~~~
+
+There are 1 instruments in the store.
+------------------------------
+The cash-flow of the store is:  5328.0 shekel.
+------------------------------
+0 sales were made in the store.
+------------------------------
+Instrument list:
+~~~~~~~~~~~~~~~~~
+
+*****************************************:
+Bass Guitar:
+Instrument's data : 
+Brand :  asd
+Model :  asd
+Color :  asd
+Weight :  2.0 KG
+Year :  2020
+Price :  1234.0 shekel
+Catalog number :  1234
+Number of strings :  4
+The wood type is :  ash
+The neck wood type is :  maple
+*****************************************:
+
